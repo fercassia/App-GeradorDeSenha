@@ -1,0 +1,12 @@
+C:\Users\fergo\source\repos\ProjetoIpsemg\ProjetoIpsemg\bin\Debug\ProjetoIpsemg.exe.config
+C:\Users\fergo\source\repos\ProjetoIpsemg\ProjetoIpsemg\bin\Debug\ProjetoIpsemg.exe
+C:\Users\fergo\source\repos\ProjetoIpsemg\ProjetoIpsemg\bin\Debug\ProjetoIpsemg.pdb
+C:\Users\fergo\source\repos\ProjetoIpsemg\ProjetoIpsemg\obj\Debug\ProjetoIpsemg.csprojAssemblyReference.cache
+C:\Users\fergo\source\repos\ProjetoIpsemg\ProjetoIpsemg\obj\Debug\ProjetoIpsemg.Form1.resources
+C:\Users\fergo\source\repos\ProjetoIpsemg\ProjetoIpsemg\obj\Debug\ProjetoIpsemg.Properties.Resources.resources
+C:\Users\fergo\source\repos\ProjetoIpsemg\ProjetoIpsemg\obj\Debug\ProjetoIpsemg.csproj.GenerateResource.cache
+C:\Users\fergo\source\repos\ProjetoIpsemg\ProjetoIpsemg\obj\Debug\ProjetoIpsemg.csproj.CoreCompileInputs.cache
+C:\Users\fergo\source\repos\ProjetoIpsemg\ProjetoIpsemg\obj\Debug\ProjetoIpsemg.exe
+C:\Users\fergo\source\repos\ProjetoIpsemg\ProjetoIpsemg\obj\Debug\ProjetoIpsemg.pdb
+C:\Users\fergo\source\repos\ProjetoIpsemg\ProjetoIpsemg\obj\Debug\ProjetoIpsemg.Form2.resources
+C:\Users\fergo\source\repos\ProjetoIpsemg\ProjetoIpsemg\obj\Debug\ProjetoIpsemg.Form3.resources
