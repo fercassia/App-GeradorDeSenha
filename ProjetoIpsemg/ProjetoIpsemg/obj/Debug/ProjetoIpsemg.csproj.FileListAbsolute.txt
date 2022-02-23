@@ -10,3 +10,15 @@ C:\Users\fergo\source\repos\ProjetoIpsemg\ProjetoIpsemg\obj\Debug\ProjetoIpsemg.
 C:\Users\fergo\source\repos\ProjetoIpsemg\ProjetoIpsemg\obj\Debug\ProjetoIpsemg.pdb
 C:\Users\fergo\source\repos\ProjetoIpsemg\ProjetoIpsemg\obj\Debug\ProjetoIpsemg.Form2.resources
 C:\Users\fergo\source\repos\ProjetoIpsemg\ProjetoIpsemg\obj\Debug\ProjetoIpsemg.Form3.resources
+C:\Users\fernanda.cassia\Desktop\Gerador de senha\App-GeradorDeSenha-main\ProjetoIpsemg\ProjetoIpsemg\bin\Debug\ProjetoIpsemg.exe.config
+C:\Users\fernanda.cassia\Desktop\Gerador de senha\App-GeradorDeSenha-main\ProjetoIpsemg\ProjetoIpsemg\bin\Debug\ProjetoIpsemg.exe
+C:\Users\fernanda.cassia\Desktop\Gerador de senha\App-GeradorDeSenha-main\ProjetoIpsemg\ProjetoIpsemg\bin\Debug\ProjetoIpsemg.pdb
+C:\Users\fernanda.cassia\Desktop\Gerador de senha\App-GeradorDeSenha-main\ProjetoIpsemg\ProjetoIpsemg\obj\Debug\ProjetoIpsemg.csproj.AssemblyReference.cache
+C:\Users\fernanda.cassia\Desktop\Gerador de senha\App-GeradorDeSenha-main\ProjetoIpsemg\ProjetoIpsemg\obj\Debug\ProjetoIpsemg.Form1.resources
+C:\Users\fernanda.cassia\Desktop\Gerador de senha\App-GeradorDeSenha-main\ProjetoIpsemg\ProjetoIpsemg\obj\Debug\ProjetoIpsemg.Form2.resources
+C:\Users\fernanda.cassia\Desktop\Gerador de senha\App-GeradorDeSenha-main\ProjetoIpsemg\ProjetoIpsemg\obj\Debug\ProjetoIpsemg.Form3.resources
+C:\Users\fernanda.cassia\Desktop\Gerador de senha\App-GeradorDeSenha-main\ProjetoIpsemg\ProjetoIpsemg\obj\Debug\ProjetoIpsemg.Properties.Resources.resources
+C:\Users\fernanda.cassia\Desktop\Gerador de senha\App-GeradorDeSenha-main\ProjetoIpsemg\ProjetoIpsemg\obj\Debug\ProjetoIpsemg.csproj.GenerateResource.cache
+C:\Users\fernanda.cassia\Desktop\Gerador de senha\App-GeradorDeSenha-main\ProjetoIpsemg\ProjetoIpsemg\obj\Debug\ProjetoIpsemg.csproj.CoreCompileInputs.cache
+C:\Users\fernanda.cassia\Desktop\Gerador de senha\App-GeradorDeSenha-main\ProjetoIpsemg\ProjetoIpsemg\obj\Debug\ProjetoIpsemg.exe
+C:\Users\fernanda.cassia\Desktop\Gerador de senha\App-GeradorDeSenha-main\ProjetoIpsemg\ProjetoIpsemg\obj\Debug\ProjetoIpsemg.pdb

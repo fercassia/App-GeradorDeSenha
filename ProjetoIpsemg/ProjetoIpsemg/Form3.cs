@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ProjetoIpsemg
+namespace ProjetoGeradorSenhaDesktop
 {
     public partial class Form3 : Form
     {
@@ -40,6 +40,16 @@ namespace ProjetoIpsemg
         {
             linkLabel1.LinkVisited = true;
             System.Diagnostics.Process.Start("https://www.linkedin.com/in/fernanda-cassia/");
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -1,5 +1,5 @@
 ﻿
-namespace ProjetoIpsemg
+namespace ProjetoGeradorSenhaDesktop
 {
     partial class Form1
     {
