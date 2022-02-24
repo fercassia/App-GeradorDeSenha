@@ -158,11 +158,11 @@ namespace ProjetoGeradorSenhaDesktop
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.Red;
             this.label4.Location = new System.Drawing.Point(330, 54);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(254, 20);
+            this.label4.Size = new System.Drawing.Size(220, 17);
             this.label4.TabIndex = 10;
             this.label4.Text = "Gere uma senha para copiar!";
             this.label4.UseWaitCursor = true;
