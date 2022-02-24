@@ -43,8 +43,9 @@ namespace ProjetoGeradorSenhaDesktop
 
         private void button1_Click(object sender, EventArgs e)
         {
-          var senhaGerada = new GeradorSenha();
+          label4.Visible = false;
 
+          var senhaGerada = new GeradorSenha();
           richTextBox1.Text = senhaGerada.GerarSenha();
         }
 
@@ -55,7 +56,17 @@ namespace ProjetoGeradorSenhaDesktop
 
         private void button3_Click(object sender, EventArgs e)
         {
+
+            if (string.IsNullOrWhiteSpace(richTextBox1.Text))
+            {
+                label4.Visible = true;
+                return;
+            }
             Clipboard.SetText(richTextBox1.Text);
+        }
+        private void label4_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
